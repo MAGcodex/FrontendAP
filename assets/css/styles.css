@@ -1,10 +1,15 @@
-.apellido {
-    color: black;
+header { background-color: rgb(51, 41, 41); border-style:solid;
 }
-header { background-color: blue;
-color: #fff;
+li {list-style-type: none;
 }
-body { margin: 100; color: blue; background-color: yellow;}
-ol {background-color: aliceblue;}
-footer {background-color: skyblue;
-color: #fff}
+.imgPerf {
+    border-radius:100% ;
+}
+.miNombre {
+    font-size: 3rem;
+}
+.apellido {color: black
+    ;}
+body { margin: 100; color: whitesmoke; background-color: rgb(82, 136, 82) ;}
+footer { background-color: black;}
+
